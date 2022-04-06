@@ -21,3 +21,7 @@ state.db
 discord-stock-ticker
 test.state
 dist/
+coingecho.txt
+discord-stock-ticker-dev
+discord-stock-ticker-sw
+.gitignore
